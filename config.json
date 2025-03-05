@@ -1,0 +1,19 @@
+{
+    "codeql": {
+        "path": "D:\\Sec\\CodeQL\\codeql\\codeql.exe",
+        "rules_path": "D:\\Sec\\CodeQL\\codeql-codeql-cli-v2.20.5\\java\\ql\\src\\Security",
+        "rules_path_enabled": false,
+        "queries": {
+            "go": "go-security-and-quality.qls",
+            "java": "java-security-and-quality.qls",
+            "javascript": "javascript-security-and-quality.qls",
+            "python": "python-security-and-quality.qls"
+        }
+    },
+    "maven": {
+        "path": "D:\\Maven\\apache-maven-3.6.0\\bin\\mvn.cmd"
+    },
+    "workspace": {
+        "temp_dir": "D:\\Sec\\CodeQL\\Scanresult"
+    }
+}
