@@ -15,6 +15,8 @@
 1. 下载并安装CodeQL CLI工具：
    - 访问 [GitHub CodeQL CLI](https://github.com/github/codeql-cli-binaries/releases) 下载最新版本
    - 解压到本地目录，例如：`D:\Sec\CodeQL\codeql`
+- 访问 [GitHub CodeQL 规则库](https://github.com/github/codeql/releases/tag/) 下载最新版本
+   - 解压到本地目录，例如：D:\Sec\CodeQL\codeql-codeql-cli-v2.20.5\
 
 2. 如需扫描Java项目，请安装Maven：
    - 访问 [Apache Maven](https://maven.apache.org/download.cgi) 下载最新版本
